@@ -1,0 +1,15 @@
+# Ignore frontend files
+/frontend/node_modules
+/frontend/dist
+/frontend/.env
+
+# Ignore backend files
+/backend/target
+/backend/.idea
+/backend/.env
+
+# Common ignores
+.DS_Store
+*.log
+.vscode
+
